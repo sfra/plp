@@ -1,0 +1,4 @@
+plp
+===
+
+Propositonal Logic Prover
